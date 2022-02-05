@@ -1,4 +1,12 @@
 # OpenCano
+
+
+
+**2022.2.5 Updated:Upload the code : Github_Accurator ：Accurate Github for China mainland(R.I.P  fastgit.org)[please use this under China's legal ]**
+
+
+
+
 中文：
 加诺
 
@@ -12,6 +20,8 @@
 目前所有设施由 可云 强力驱动
 
 希望你喜欢
+
+2022.2.5 Updated:Upload the code : Github_Accurator ：Accurate Github for China mainland(R.I.P  fastgit.org)[please use this under China's legal ]
 
 
 
