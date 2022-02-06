@@ -3,7 +3,7 @@
 
 
 **2022.2.5 Updated:Upload the code : Github_Accurator ：Accurate Github for China mainland(R.I.P  fastgit.org)[please use this under China's legal ]**
-
+**2022.2.6 Updated： Notion URL**
 
 
 
@@ -21,8 +21,14 @@
 
 希望你喜欢
 
-2022.2.5 Updated:Upload the code : Github_Accurator ：Accurate Github for China mainland(R.I.P  fastgit.org)[please use this under China's legal ]
+后面GitHub不会更新一些细微更新。你如果想了解我们最近的项目，欢迎来到我的notion
 
+注意，中国大陆地区可能无法直接连通，不过我们后面会开通一些方式来让您了解我们
+
+https://maddening-snail-03c.notion.site/48e2909d563744faa94fc27eebe2ed85?v=b3d7e57d09494362b9bdf2e97dc06858
+
+2022.2.5 Updated:Upload the code : Github_Accurator ：Accurate Github for China mainland(R.I.P  fastgit.org)[please use this under China's legal ]
+2022.2.6 Updated： Notion URL
 
 
 
